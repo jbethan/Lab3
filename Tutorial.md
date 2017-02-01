@@ -1,4 +1,5 @@
-# Lab3AngularTutorial
+# Avatar Tutorial
+
 We will build a contrived user registration that will take
 
 1. new user's name and
